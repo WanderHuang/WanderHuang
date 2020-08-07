@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 #### rust
 <img src="https://progressbadges.herokuapp.com/30/100/ade498" width="50%">
+
+
+### Contact me
+- 📧 `junjiehuang@yeah.net` or `wanderjie@gmail.com`
