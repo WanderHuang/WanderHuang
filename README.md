@@ -3,7 +3,7 @@
 <p>Mia San Mia!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanderhuang" alt="wanderhuang" /> </p>
 
-- 🔭 I’m currently working on [rustin](https://github.com/WanderHuang/rustin)
+- 🔭 I’m currently working on [rustin](https://github.com/WanderHuang/rustin) & [basic-programming](https://github.com/WanderHuang/Basic-Programming-Knowledge)
 
 - 🌱 I’m currently learning **Rust/Webassembly/Rx..**
 
