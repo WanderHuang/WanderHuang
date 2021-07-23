@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript/React/Vue/Rxjs**
 
-- 📫 How to reach me **junjiehuang@yeah.net**
+- 📫 How to reach me **wanderjie@gmail.com**
 
 - ⚡ Fun fact **Javascript / Rust**
 
