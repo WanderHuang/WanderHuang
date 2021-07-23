@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WanderHuang](https://github.com/WanderHuang)
 
-- 📝 I regulary write articles on [https://mp.weixin.qq.com/s/KzdsztzmbhItHBD-Tdw1Ww](https://mp.weixin.qq.com/s/KzdsztzmbhItHBD-Tdw1Ww)
-
 - 💬 Ask me about **Javascript/React/Vue/Rxjs**
 
 - 📫 How to reach me **junjiehuang@yeah.net**
